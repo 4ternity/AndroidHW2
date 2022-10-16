@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="generate_random_number">Сгенерировать случайное число</string>
+    <string name="first_fragment">Первый фрагмент</string>
+    <string name="second_fragment">Второй фрагмент</string>
+    <string name="third_fragment">Третий фрагмент</string>
+    <string name="next">Далее</string>
+    <string name="text">Число</string>
+    <string name="thanks">Спасибо</string>
+</resources>
