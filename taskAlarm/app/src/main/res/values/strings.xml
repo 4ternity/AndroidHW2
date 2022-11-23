@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="show_alarm">Show Alarm</string>
+    <string name="disable_alarm">Disable Alarm</string>
+    <string name="last_device_reboot_time">Device Reboot Time</string>
+    <string name="notification_time">Notification time</string>
+    <string name="channel_name">yes</string>
+    <string name="channel_description">no</string>
+</resources>
